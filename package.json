@@ -1,0 +1,6 @@
+{
+  "name": "my-name",
+  "engines": {
+     "node": "14 || 16 || 18"
+  }
+}
